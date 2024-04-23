@@ -1,0 +1,60 @@
+/*
+Theme Name: Environment
+Author: Odenilson Marques
+Description: This theme is for learning purposes only.
+Requires at least: 5.6
+Tested up to: 5.9
+Requires PHP: 8.0
+Version: 1.0
+Text Domain: wp-environment
+Tags: one-column, custom-menu, custom-logo, featured-images, translation-ready
+*/
+
+body{
+    /* background-color: black; */
+}
+
+a.name-environment{
+    text-decoration: none;
+    font-size: 25px;
+    color: #295FA6;
+    font-weight: bold;
+}
+
+
+header nav{
+    /* border:1px solid red; */
+    /* padding-top: 70px; */
+    /* margin-top: 10px; */
+}
+
+
+
+/* li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 0px;
+} */
+
+li a {
+    text-decoration: none;
+    color: #295FA6;
+    transition: .5s;
+    font-size: 16px;
+    margin-left: 20px;
+    /* border: 1px solid red; */
+}
+
+li a:hover {
+    opacity: .5;
+    text-decoration: underline;
+} 
+
+
+
+
+
+
+
+
+
